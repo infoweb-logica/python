@@ -12,8 +12,8 @@
 4. [Operadores lógicos e relacionais](https://github.com/infoweb-logica/06-notas_de_aula-04-python)
 5. [Estruturas de seleção](https://github.com/infoweb-logica/07-notas_de_aula-05-python)
 6. [Depuração](https://github.com/infoweb-logica/08-notas_de_aula-06-python)
-7. Estrutura de repetição - while - contanto
-8. Estrutura de repetição - while - acumulando
+7. [Estrutura de repetição - while - contanto](https://github.com/infoweb-logica/09-notas_de_aula-07-python)
+8. [Estrutura de repetição - while - acumulando](https://github.com/infoweb-logica/10-notas_de_aula-08-python)
 9. Estrutura de repetição - for
 10. Funções parte 1 e parte 2
 11. Listas parte 1 e parte 2
