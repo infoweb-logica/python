@@ -18,7 +18,7 @@
 10. [Funções](https://github.com/infoweb-logica/12-notas_de_aula-10-python)
 11. [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python)
 12. [Matrizes](https://github.com/infoweb-logica/14-notas_de_aula-12-python)
-13. Tuplas, conjuntos e dicionários
+13. [Tuplas, conjuntos e dicionários](https://github.com/infoweb-logica/15-notas_de_aula-13-python)
 
 ## Resumo da Sintaxe em Python
 
@@ -146,6 +146,9 @@ pessoa["profissao"] = "Dev"     # adiciona nova chave
 # Iteração
 for chave, valor in pessoa.items():
     print(chave, ":", valor)
+
+print(f"a chave 'nome' existe? {'nome' in pessoa}")
+print(f"a chave 'matricula' existe? {'matricula' in pessoa}")
 ```
 
 ---
