@@ -14,7 +14,7 @@
 6. [Depuração](https://github.com/infoweb-logica/08-notas_de_aula-06-python)
 7. [Estrutura de repetição - while - contanto](https://github.com/infoweb-logica/09-notas_de_aula-07-python) - [lista de exercício](https://github.com/infoweb-logica/09-notas_de_aula-07-python/blob/main/lista.md)
 8. [Estrutura de repetição - while - acumulando](https://github.com/infoweb-logica/10-notas_de_aula-08-python) - [lista de exercício](https://github.com/infoweb-logica/10-notas_de_aula-08-python/blob/main/lista.md)
-9. [Estrutura de repetição - for](https://github.com/infoweb-logica/11-notas_de_aula-09-python) - [lista de exercício](https://github.com/infoweb-logica/11-notas_de_aula-09-python/blob/main/lista.md)
+9. [Estrutura de repetição - for](https://github.com/infoweb-logica/11-notas_de_aula-09-python) - :pushpin: [lista de exercício](https://github.com/infoweb-logica/11-notas_de_aula-09-python/blob/main/lista.md)
 10. [Funções](https://github.com/infoweb-logica/12-notas_de_aula-10-python)
 11. [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python)
 12. [Matrizes](https://github.com/infoweb-logica/14-notas_de_aula-12-python)
