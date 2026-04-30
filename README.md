@@ -14,7 +14,7 @@
 7. :paperclip: [Estrutura de repetição - while - contanto](https://github.com/infoweb-logica/09-notas_de_aula-07-python) - :pencil2: [lista de exercício](https://github.com/infoweb-logica/09-notas_de_aula-07-python/blob/main/lista.md)
 8. :paperclip: [Estrutura de repetição - while - acumulando](https://github.com/infoweb-logica/10-notas_de_aula-08-python) - :pencil2: [lista de exercício](https://github.com/infoweb-logica/10-notas_de_aula-08-python/blob/main/lista.md)
 9. :paperclip: [Estrutura de repetição - for](https://github.com/infoweb-logica/11-notas_de_aula-09-python) - :pencil2: [lista de exercício](https://github.com/infoweb-logica/11-notas_de_aula-09-python/blob/main/lista.md)
-10. [Funções](https://github.com/infoweb-logica/12-notas_de_aula-10-python)
+10. :paperclip: [Funções](https://github.com/infoweb-logica/12-notas_de_aula-10-python) - :pencil2: [lista de exercício](https://github.com/infoweb-logica/12-notas_de_aula-10-python/blob/main/lista.md)
 11. [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python)
 12. [Matrizes](https://github.com/infoweb-logica/14-notas_de_aula-12-python)
 13. [Tuplas, conjuntos e dicionários](https://github.com/infoweb-logica/15-notas_de_aula-13-python)
