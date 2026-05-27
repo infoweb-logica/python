@@ -24,9 +24,55 @@
 7
 3
 ## questão 6
+Entrada
+```
+5
+10
+20
+30
+40
+50
+```
+Saída
+```
+20 30 40 50 10
+```
 ## questão 7
+Entrada
+```
+5
+10
+20
+30
+40
+50
+```
+Saída
+```
+50 10 20 30 40
+```
 ## questão 8
+Entradas
+```
+6
+4 8 1 9 2 7
+9
+```
+Saída
+```
+SIM
+```
 ## questão 9
+Entrada
+```
+7
+5 3 8 3 9 3 1
+3
+```
+Saída
+```
+1
+```
 ## questão 10
 ## questão 11
 ## questão 12
