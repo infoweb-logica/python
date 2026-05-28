@@ -74,11 +74,71 @@ Saída
 1
 ```
 ## questão 10
+Entrada
+```
+7
+5 3 8 3 9 3 1
+3
+```
+Saída
+```
+5
+```
 ## questão 11
+Entrada
+```
+8
+2 1 2 3 2 4 5 2
+2
+```
+Saída
+```
+4
+```
 ## questão 12
+Entrada
+```
+5
+3 -2 0 8 -7
+```
+Saída
+```
+-3 2 0 -8 7
+```
 ## questão 13
+Entrada
+```
+6
+4 -1 7 -8 0 2
+```
+Saída
+```
+4 0 7 0 0 2
+```
 ## questão 14
+Entrada
+```
+5
+2
+3
+4
+5
+6
+```
+Saída
+```
+4 3 8 5 12
+```
 ## questão 15
+Entrada
+```
+8
+4 2 4 3 2 1 3 5
+```
+Saída
+```
+4 2 3 1 5
+```
 ## questão 16
 ## questão 17
 ## questão 18
