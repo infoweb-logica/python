@@ -24,8 +24,8 @@
 ### segunda versão
 quantidade = int(input())
 numeros = []
-menor = -999999999
-maior = 999999999
+menor = 999999999
+maior = -999999999
 for _ in range(quantidade):
     numero = int(input())
     numeros.append(numero)
